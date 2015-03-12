@@ -1,0 +1,22 @@
+*.DS_Store
+.idea/
+Thumbs.db
+ForgeModLoader-client*
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Gradle
+/.gradle
+/build/
+/run/
+/bin/
+
+# Eclipse
+.classpath
+.project
+.settings/

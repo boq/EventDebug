@@ -1,0 +1,9 @@
+openmods.debug.log.unknown_output=Unknown output, allowed ones: %s
+
+openmods.debug.log.log_ok=Appended event data to log
+
+openmods.debug.log.clipboard_ok=Stored event data in clipboard
+openmods.debug.log.clipboard_fail=Failed to copy data to clipboard
+
+openmods.debug.log.file_fail=Failed to store data to file
+openmods.debug.log.file_ok=Debug info stored in %s

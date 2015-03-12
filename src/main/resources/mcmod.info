@@ -1,0 +1,14 @@
+[
+{
+  "modid": "eventdebug",
+  "name": "Event Debug",
+  "description": "Simple tool to collect event information",
+  "version": "${version}",
+  "url" : "http://www.openperipheral.info",
+  "authorList": ["boq"],
+  "logoFile": "",
+  "credits" : "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
